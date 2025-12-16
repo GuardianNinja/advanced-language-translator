@@ -166,6 +166,8 @@ __pycache__/
 *$py.class
 *.so
 .Python
+*.egg-info/
+.pytest_cache/
 env/
 venv/
 ENV/
